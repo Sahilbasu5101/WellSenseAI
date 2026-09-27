@@ -1,0 +1,537 @@
+[
+    {
+        "well_id": "W-001",
+        "name": "DLJN-ACT-001",
+        "status": "Active",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.41571,
+                27.366965
+            ]
+        },
+        "total_depth": 4390,
+        "formations": [
+            {
+                "name": "Kopili Formation",
+                "depth_start": 0,
+                "depth_end": 1278
+            },
+            {
+                "name": "Barail Coal Shale",
+                "depth_start": 1278,
+                "depth_end": 2984
+            },
+            {
+                "name": "Girujan Clay",
+                "depth_start": 2984,
+                "depth_end": 3502
+            },
+            {
+                "name": "Namsang Formation",
+                "depth_start": 3502,
+                "depth_end": 4104
+            },
+            {
+                "name": "Alluvium",
+                "depth_start": 4104,
+                "depth_end": 4390
+            }
+        ]
+    },
+    {
+        "well_id": "W-002",
+        "name": "DLJN-HST-002",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.344028,
+                27.338347
+            ]
+        },
+        "total_depth": 3482,
+        "formations": [
+            {
+                "name": "Tipam Sandstone",
+                "depth_start": 0,
+                "depth_end": 869
+            },
+            {
+                "name": "Kopili Formation",
+                "depth_start": 869,
+                "depth_end": 1256
+            },
+            {
+                "name": "Namsang Formation",
+                "depth_start": 1256,
+                "depth_end": 2649
+            },
+            {
+                "name": "Alluvium",
+                "depth_start": 2649,
+                "depth_end": 3098
+            },
+            {
+                "name": "Barail Coal Shale",
+                "depth_start": 3098,
+                "depth_end": 3482
+            }
+        ]
+    },
+    {
+        "well_id": "W-003",
+        "name": "DLJN-HST-003",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.374682,
+                27.378839
+            ]
+        },
+        "total_depth": 4296,
+        "formations": [
+            {
+                "name": "Alluvium",
+                "depth_start": 0,
+                "depth_end": 773
+            },
+            {
+                "name": "Kopili Formation",
+                "depth_start": 773,
+                "depth_end": 2699
+            },
+            {
+                "name": "Barail Coal Shale",
+                "depth_start": 2699,
+                "depth_end": 3458
+            },
+            {
+                "name": "Namsang Formation",
+                "depth_start": 3458,
+                "depth_end": 3966
+            },
+            {
+                "name": "Tipam Sandstone",
+                "depth_start": 3966,
+                "depth_end": 4296
+            }
+        ]
+    },
+    {
+        "well_id": "W-004",
+        "name": "DLJN-HST-004",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.259339,
+                27.320037
+            ]
+        },
+        "total_depth": 4405,
+        "formations": [
+            {
+                "name": "Alluvium",
+                "depth_start": 0,
+                "depth_end": 2108
+            },
+            {
+                "name": "Namsang Formation",
+                "depth_start": 2108,
+                "depth_end": 3390
+            },
+            {
+                "name": "Girujan Clay",
+                "depth_start": 3390,
+                "depth_end": 4405
+            }
+        ]
+    },
+    {
+        "well_id": "W-005",
+        "name": "DLJN-HST-005",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.32047,
+                27.376967
+            ]
+        },
+        "total_depth": 4292,
+        "formations": [
+            {
+                "name": "Namsang Formation",
+                "depth_start": 0,
+                "depth_end": 2529
+            },
+            {
+                "name": "Kopili Formation",
+                "depth_start": 2529,
+                "depth_end": 2999
+            },
+            {
+                "name": "Girujan Clay",
+                "depth_start": 2999,
+                "depth_end": 3479
+            },
+            {
+                "name": "Alluvium",
+                "depth_start": 3479,
+                "depth_end": 3922
+            },
+            {
+                "name": "Barail Coal Shale",
+                "depth_start": 3922,
+                "depth_end": 4292
+            }
+        ]
+    },
+    {
+        "well_id": "W-006",
+        "name": "DLJN-HST-006",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.202007,
+                27.345381
+            ]
+        },
+        "total_depth": 4386,
+        "formations": [
+            {
+                "name": "Tipam Sandstone",
+                "depth_start": 0,
+                "depth_end": 2134
+            },
+            {
+                "name": "Girujan Clay",
+                "depth_start": 2134,
+                "depth_end": 2487
+            },
+            {
+                "name": "Namsang Formation",
+                "depth_start": 2487,
+                "depth_end": 3309
+            },
+            {
+                "name": "Alluvium",
+                "depth_start": 3309,
+                "depth_end": 3833
+            },
+            {
+                "name": "Kopili Formation",
+                "depth_start": 3833,
+                "depth_end": 4386
+            }
+        ]
+    },
+    {
+        "well_id": "W-007",
+        "name": "DLJN-HST-007",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.312817,
+                27.429415
+            ]
+        },
+        "total_depth": 3545,
+        "formations": [
+            {
+                "name": "Kopili Formation",
+                "depth_start": 0,
+                "depth_end": 1618
+            },
+            {
+                "name": "Barail Coal Shale",
+                "depth_start": 1618,
+                "depth_end": 2040
+            },
+            {
+                "name": "Tipam Sandstone",
+                "depth_start": 2040,
+                "depth_end": 2446
+            },
+            {
+                "name": "Alluvium",
+                "depth_start": 2446,
+                "depth_end": 3545
+            }
+        ]
+    },
+    {
+        "well_id": "W-008",
+        "name": "DLJN-HST-008",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.403068,
+                27.261212
+            ]
+        },
+        "total_depth": 3715,
+        "formations": [
+            {
+                "name": "Barail Coal Shale",
+                "depth_start": 0,
+                "depth_end": 327
+            },
+            {
+                "name": "Tipam Sandstone",
+                "depth_start": 327,
+                "depth_end": 1485
+            },
+            {
+                "name": "Alluvium",
+                "depth_start": 1485,
+                "depth_end": 3715
+            }
+        ]
+    },
+    {
+        "well_id": "W-009",
+        "name": "DLJN-HST-009",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.259977,
+                27.486264
+            ]
+        },
+        "total_depth": 3507,
+        "formations": [
+            {
+                "name": "Kopili Formation",
+                "depth_start": 0,
+                "depth_end": 754
+            },
+            {
+                "name": "Girujan Clay",
+                "depth_start": 754,
+                "depth_end": 1069
+            },
+            {
+                "name": "Namsang Formation",
+                "depth_start": 1069,
+                "depth_end": 3507
+            }
+        ]
+    },
+    {
+        "well_id": "W-010",
+        "name": "DLJN-HST-010",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.252105,
+                27.259325
+            ]
+        },
+        "total_depth": 3187,
+        "formations": [
+            {
+                "name": "Barail Coal Shale",
+                "depth_start": 0,
+                "depth_end": 808
+            },
+            {
+                "name": "Alluvium",
+                "depth_start": 808,
+                "depth_end": 2227
+            },
+            {
+                "name": "Girujan Clay",
+                "depth_start": 2227,
+                "depth_end": 2637
+            },
+            {
+                "name": "Tipam Sandstone",
+                "depth_start": 2637,
+                "depth_end": 2943
+            },
+            {
+                "name": "Namsang Formation",
+                "depth_start": 2943,
+                "depth_end": 3187
+            }
+        ]
+    },
+    {
+        "well_id": "W-011",
+        "name": "DLJN-HST-011",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.382368,
+                27.469419
+            ]
+        },
+        "total_depth": 2993,
+        "formations": [
+            {
+                "name": "Kopili Formation",
+                "depth_start": 0,
+                "depth_end": 1391
+            },
+            {
+                "name": "Tipam Sandstone",
+                "depth_start": 1391,
+                "depth_end": 2129
+            },
+            {
+                "name": "Namsang Formation",
+                "depth_start": 2129,
+                "depth_end": 2470
+            },
+            {
+                "name": "Girujan Clay",
+                "depth_start": 2470,
+                "depth_end": 2848
+            },
+            {
+                "name": "Barail Coal Shale",
+                "depth_start": 2848,
+                "depth_end": 2993
+            }
+        ]
+    },
+    {
+        "well_id": "W-012",
+        "name": "DLJN-HST-012",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.305655,
+                27.389897
+            ]
+        },
+        "total_depth": 4124,
+        "formations": [
+            {
+                "name": "Barail Coal Shale",
+                "depth_start": 0,
+                "depth_end": 1980
+            },
+            {
+                "name": "Alluvium",
+                "depth_start": 1980,
+                "depth_end": 3090
+            },
+            {
+                "name": "Kopili Formation",
+                "depth_start": 3090,
+                "depth_end": 4124
+            }
+        ]
+    },
+    {
+        "well_id": "W-013",
+        "name": "DLJN-HST-013",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.346449,
+                27.348116
+            ]
+        },
+        "total_depth": 3429,
+        "formations": [
+            {
+                "name": "Tipam Sandstone",
+                "depth_start": 0,
+                "depth_end": 2093
+            },
+            {
+                "name": "Barail Coal Shale",
+                "depth_start": 2093,
+                "depth_end": 3072
+            },
+            {
+                "name": "Kopili Formation",
+                "depth_start": 3072,
+                "depth_end": 3429
+            }
+        ]
+    },
+    {
+        "well_id": "W-014",
+        "name": "DLJN-HST-014",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.271672,
+                27.331239
+            ]
+        },
+        "total_depth": 3960,
+        "formations": [
+            {
+                "name": "Tipam Sandstone",
+                "depth_start": 0,
+                "depth_end": 1318
+            },
+            {
+                "name": "Namsang Formation",
+                "depth_start": 1318,
+                "depth_end": 2448
+            },
+            {
+                "name": "Girujan Clay",
+                "depth_start": 2448,
+                "depth_end": 3156
+            },
+            {
+                "name": "Kopili Formation",
+                "depth_start": 3156,
+                "depth_end": 3517
+            },
+            {
+                "name": "Alluvium",
+                "depth_start": 3517,
+                "depth_end": 3960
+            }
+        ]
+    },
+    {
+        "well_id": "W-015",
+        "name": "DLJN-HST-015",
+        "status": "Historical",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                95.345681,
+                27.290336
+            ]
+        },
+        "total_depth": 4285,
+        "formations": [
+            {
+                "name": "Girujan Clay",
+                "depth_start": 0,
+                "depth_end": 314
+            },
+            {
+                "name": "Kopili Formation",
+                "depth_start": 314,
+                "depth_end": 2800
+            },
+            {
+                "name": "Tipam Sandstone",
+                "depth_start": 2800,
+                "depth_end": 4285
+            }
+        ]
+    }
+]
